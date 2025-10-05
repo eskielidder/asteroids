@@ -16,3 +16,6 @@ git push origin main
 
 #activate uv environment
 source .venv/bin/activate
+
+#if pygame needs to be installed again
+pip install --break-system-packages pygame
